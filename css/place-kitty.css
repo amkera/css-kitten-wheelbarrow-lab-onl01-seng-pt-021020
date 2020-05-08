@@ -1,4 +1,4 @@
-/* Select the image with a class of kitty-1 */
+/* Select the image with a CLASS of kitty-1, CLASS selector */
 
 .kitty-1 {
   position: absolute;
@@ -7,7 +7,7 @@
   left: 129px;
 }
 
-/* Select the image with id of kitty-2 */
+/* Select the image with ID of kitty-2, ID selector*/
 
 #kitty-2 {
   position: absolute;
